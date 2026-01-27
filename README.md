@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kusumanth Gali</h1>
-<h3 align="center">A passionate DSE</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 - 🔭 I’m currently working on **Qualiverse AI**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Doc generation, Book marks of json , Doc config , Templates**
 
-- 📫 How to reach me **kgali@qmbdevices.com**
+- 📫 How to reach me **galikusu97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
