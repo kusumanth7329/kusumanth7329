@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/profile.jpg" alt="Kusumanth Reddy Gali" width="180" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Kusumanth+%F0%9F%91%8B;Data+Science+%26+AI%2FML+Engineer;CS+Grad+Student+%40+Northeastern" alt="Typing SVG" />
 
 <br/>
@@ -9,6 +13,7 @@ Building intelligent systems — from ECG-based clinical models to LLM-powered t
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kusumanth--portfolio-0F4C3A?style=flat-square&logo=vercel&logoColor=white)](https://github.com/kusumanth7329/kusumanth-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kusumanth--gali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusumanth-gali-41736617a/)
 [![Email](https://img.shields.io/badge/Email-galikusu97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:galikusu97@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kusumanth7329-181717?style=flat-square&logo=github)](https://github.com/kusumanth7329)
