@@ -110,7 +110,7 @@ Full-stack task management application with clean UX and real-time updates.
 ![CouchDB](https://img.shields.io/badge/-CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Backend & APIs**
+**Backend & Frontend**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
@@ -142,7 +142,13 @@ Full-stack task management application with clean UX and real-time updates.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kusumanth7329&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=9090a8&langs_count=8" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=kusumanth7329&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=9090a8&count_private=true&include_all_commits=true" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kusumanth7329&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=9090a8&langs_count=6&count_private=true" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=kusumanth7329&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="150" />
 
 </div>
 
